@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad355&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad355" /> </p>
 
-- 🔭 I’m currently working on [POS](http://pos.biznovelty.com/)
+- 🔭 I’m currently working on [POS](http://pos.biznovelty.com/), [TPA Health Insurance](http://tpa.biznovelty.com/)
 
 - 🌱 I’m currently learning **React Native, Angular JS**
-
-- 👯 I’m looking to collaborate on [TPA Health Insurance](http://tpa.biznovelty.com/)
 
 - 👨‍💻 All of my projects are available at [https://sajjadur-rahman.netlify.app/](https://sajjadur-rahman.netlify.app/)
 
