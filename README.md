@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Angular JS**
 
-- 👨‍💻 Explore me- [https://sajjadur-rahman.netlify.app/](https://sajjadur-rahman.netlify.app/)
+- 👨‍💻 Explore me [Sajjadur](https://sajjadur-rahman.netlify.app/)
 
 - 📫 How to reach me **sajjadurrahman3434@gmail.com**
 
