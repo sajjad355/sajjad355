@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Sajjadur Rahman</h1>
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Software Developer From Bangladesh</h3>
 
 
 - 🔭 I’m currently working on [POS](http://pos.biznovelty.com/), [TPA Health Insurance](http://tpa.biznovelty.com/)
